@@ -5,9 +5,9 @@
 }
 
 /* website tint */
-browser[transparent='true'] {
+/* browser[transparent='true'] {
   background: var(--nebula-website-tint) !important;
-}
+} */
 
 /* Hide identity label for Bonjourr */
 #identity-icon-label[value="Extension (Bonjourr · Minimalist Startpage)"] {
